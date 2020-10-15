@@ -1,0 +1,31 @@
+.signin {
+    background-color: #448FE1;
+    border-width: 2px;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+.heading {
+    display: block;
+}
+
+.heading-small-content {
+    font-size: 15px;
+}
+
+.p-signup {
+    color: white;
+}
+
+.signup-div {
+    margin-top: 20px;
+}
+
+.p-signup a {
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+}

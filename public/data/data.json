@@ -1,0 +1,42 @@
+[
+    {
+        "email": "user@example.com",
+        "feed": "Maybe If we tell people the brain is an app, they will start using it",
+        "pic": "https://cdn1.iconfinder.com/data/icons/website-internet/48/website_-_male_user-512.png"
+    },
+    {
+        "email" : "someone@example.com",
+        "feed": "If I won the award for laziness, I would send somebody to pick it up for me.",
+        "pic": "https://cdn1.iconfinder.com/data/icons/website-internet/48/website_-_female_user-512.png"
+    },
+    {
+        "email" : "iamuser@media.com",
+        "feed" : "Doing Nothing is hard. You never know, when you are done.",
+        "pic" : "https://cdn0.iconfinder.com/data/icons/social-media-network-4/48/male_avatar-512.png"
+    },
+    {
+        "email" : "indian@country.com",
+        "feed" : "My Wallet is like an onion, opening it makes me cry",
+        "pic": "https://cdn1.iconfinder.com/data/icons/website-internet/48/website_-_male_user-512.png"
+    },
+    {
+        "email" : "nerd@here.com",
+        "feed" : "Common sense is like deodorant, those who need it the most never use it",
+        "pic": "https://cdn1.iconfinder.com/data/icons/website-internet/48/website_-_female_user-512.png"
+    },
+    {
+        "email" : "living@home.com",
+        "feed" : "People say nothing is impossible, but I do nothing every day",
+        "pic" : "https://cdn0.iconfinder.com/data/icons/social-media-network-4/48/male_avatar-512.png"
+    },
+    {
+        "email" : "newbie@company.com",
+        "feed" : "Light travels faster than sound. This is why some people appear bright until you hear them speak.",
+        "pic": "https://cdn1.iconfinder.com/data/icons/website-internet/48/website_-_male_user-512.png"
+    },
+    {
+        "email" : "champ@example.com",
+        "feed" : "It would be nice to spend billions on schools and roads, but right now that money is desperately needed for political ads.",
+        "pic" : "https://cdn1.iconfinder.com/data/icons/website-internet/48/website_-_female_user-512.png"
+    }
+]
